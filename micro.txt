@@ -1,0 +1,1 @@
+Microservices: Microservices involve breaking down applications into smaller, independent services that can be developed, tested, and deployed independently. This enables faster development and deployment of new features, and greater scalability and resilience.

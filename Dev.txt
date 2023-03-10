@@ -1,0 +1,3 @@
+[200~DevOps is a set of practices that combines software development and IT operations to shorten the systems development life cycle and provide continuous delivery with high software quality. It emphasizes collaboration, communication, and automation between developers and operations teams.
+
+Here are some key principles and methodologies of DevOps

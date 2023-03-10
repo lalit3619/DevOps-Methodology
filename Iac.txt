@@ -1,0 +1,1 @@
+Infrastructure as Code (IaC): Infrastructure as code involves managing infrastructure (servers, networks, storage, etc.) in a similar way to software code, using version control systems and automation tools. This allows for more efficient and reliable infrastructure management.

@@ -1,0 +1,1 @@
+Continuous Integration (CI): Continuous integration involves merging code changes into a central repository and testing them automatically. The goal is to catch integration issues early and ensure that code is always in a deployable state.

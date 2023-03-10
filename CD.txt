@@ -1,0 +1,1 @@
+Continuous Delivery (CD): Continuous delivery involves automating the entire software release process, from build to deployment. The goal is to deliver software quickly and reliably, with minimal risk of failure.
